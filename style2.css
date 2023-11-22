@@ -1,0 +1,15 @@
+.cabecalho{
+   background-color: black;
+    border: 10px;
+    border-color: rgb(245, 0, 0);
+    border-style: dashed;
+    margin: 10px;
+    color: rgb(255, 255, 0);
+    font-weight: 400;
+}
+
+.principal{
+    background-color: rgb(242, 245, 96)7);
+    border: 10px;
+    
+}
