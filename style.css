@@ -1,4 +1,14 @@
+#link{
+    font-size: 20px;
+    color: blue;
+    text-decoration: no;
+}
+#link:{
+    font-size: 25px;
+    color: rgb(255, 218, 6);
+    text-decoration: underline;
 .principal{
+ 
     background-color: cyan;
     
-}
+} 
